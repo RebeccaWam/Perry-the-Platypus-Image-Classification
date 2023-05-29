@@ -1,5 +1,6 @@
 # Perry-the-Platypus-Image-Classification
 Image classification using the Perry the Platypus dataset from Kaggle.
+
 Done by Rebecca Wam and Megan Michael
 
 # Areas of Improvement
